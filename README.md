@@ -36,8 +36,8 @@ This project is meant to be a stablecoin where users can deposit WETH and WBTC i
 ## Quickstart
 
 ```
-git clone https://github.com/BBashh/StableCoin.git
-cd StableCoin
+git clone https://github.com/BBashh/Foundry-StableCoin.git
+cd Foundry-StableCoin
 forge build
 ```
 
